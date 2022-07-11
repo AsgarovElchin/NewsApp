@@ -10,7 +10,7 @@
         android:title="Saved News" />
     <item
         android:id="@+id/searchNewsFragment"
-        android:icon="@drawable/breaking_news_icon"
+        android:icon="@drawable/search_news_icon"
         android:title="Search News" />
 
 
